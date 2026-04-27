@@ -69,7 +69,7 @@ if (!isset($_SESSION['is_login'])) {
             
             <div class="col-6 col-md-4 col-lg-3">
                 <div class="card h-100 card-product">
-                    <img src="asset/images.jfif"class="card-img-top" alt="Produk">
+                    <img src="images.jfif"class="card-img-top" alt="Produk">
                     <div class="card-body">
                         <h6 class="card-title text-truncate">Beras Premium 5kg</h6>
                         <p class="text-danger fw-bold mb-1">Rp 60.000</p>
@@ -83,7 +83,7 @@ if (!isset($_SESSION['is_login'])) {
 
             <div class="col-6 col-md-4 col-lg-3">
                 <div class="card h-100 card-product">
-                    <img src="asset/1_A09350001879_20211001113946725_base.jpg"class="card-img-top" alt="Produk">
+                    <img src="1_A09350001879_20211001113946725_base.jpg"class="card-img-top" alt="Produk">
                     <div class="card-body">
                         <h6 class="card-title text-truncate">Minyak Goreng 2L</h6>
                         <p class="text-danger fw-bold mb-1">Rp 34.500</p>
@@ -96,7 +96,7 @@ if (!isset($_SESSION['is_login'])) {
             </div>
             <div class="col-6 col-md-4 col-lg-3">
                 <div class="card h-100 card-product">
-                    <img src="asset/79e9ff8d-ad8e-44f2-a25b-27b7a3750b41.jpg~tplv-aphluv4xwc-resize-jpeg_700_0.jpg"class="card-img-top" alt="Produk">
+                    <img src="79e9ff8d-ad8e-44f2-a25b-27b7a3750b41.jpg~tplv-aphluv4xwc-resize-jpeg_700_0.jpg"class="card-img-top" alt="Produk">
                     <div class="card-body">
                         <h6 class="card-title text-truncate">Susu UHT Full Cream 1L</h6>
                         <p class="text-danger fw-bold mb-1">Rp 20.000</p>
@@ -109,7 +109,7 @@ if (!isset($_SESSION['is_login'])) {
             </div>
             <div class="col-6 col-md-4 col-lg-3">
                 <div class="card h-100 card-product">
-                    <img src="asset/images (1).jfif"class="card-img-top" alt="Produk">
+                    <img src="images (1).jfif"class="card-img-top" alt="Produk">
                     <div class="card-body">
                         <h6 class="card-title text-truncate">Mie Instan Goreng </h6>
                         <p class="text-danger fw-bold mb-1">Rp 18.000</p>
